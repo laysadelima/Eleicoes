@@ -1,0 +1,97 @@
+nav.b{
+	background-color: red;
+}
+
+a.c{
+	color: white;
+}
+
+h1.b{
+	padding: 15px;
+}
+
+h1.barra{
+	float: right;
+	padding: 15px;
+}
+
+img.foto{
+	border-radius: 80px;
+	height: 85px;
+}
+
+img.fotos{
+	border-radius: 80px;
+	height: 85px;
+}
+
+.divfoto{
+	float: left;
+}
+
+.info{
+	float: left;
+}
+
+.info2{
+	float: right;
+	text-align: right;
+}
+
+.informacoes1{
+	float: left;
+	width: 90%
+}
+
+.informacoes{
+	float: left;
+	width: 90%;
+	opacity: 0.5;
+}
+
+.Candidatos{
+	float: left;
+	width: 10%
+}
+
+div.pt1{
+	background-color: red;
+}
+
+.h1{
+	text-align: center;
+	color: black;
+	padding: 6px;
+}
+
+img.foto{
+	opacity: 0.5;
+}
+
+p.text{
+	color: white;
+	text-align: left;
+	padding: 6px;
+	font-style: fantasy;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.col{
+	padding: 6px;
+}
+
+.fotoinicio{
+	height: 250px;
+	float: left;
+}
+
+.blabla{
+	float: left;
+	width: 10%;
+}
+
+.bla{
+	float: left;
+	width: 90%;
+}
